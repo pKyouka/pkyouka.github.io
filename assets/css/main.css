@@ -4610,7 +4610,7 @@ p, .p {
   display: inline-block;
   position: relative;
   width: auto;
-  background: #EE4141;
+  background: #831d1d;
   overflow: hidden;
   z-index: 1;
   font-weight: 500;
@@ -4698,12 +4698,32 @@ p, .p {
   .button--youtube:hover{
     background-color: #550505;
   }
+  
+  .button--git{
+    background-color: #969696;
+    display: inline-block;
+    position: relative;
+    width: auto;
+    overflow: hidden;
+    z-index: 1;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 17px 25px;
+    border-radius: 4px;
+    text-align: center;
+  }
+  .button--git:hover{
+    background-color: #3f3f3f;
+  }
 
   .button--alt {
   background: #F5BF24;
   color: #151515; }
   .button--alt:hover {
     background: #EE4141; }
+
 
 @media (max-width: 599px) {
   .btn-group {
