@@ -5733,11 +5733,11 @@ body:not(.home) .site-header {
 
 .speaker-list > .speaker:nth-child(6n + 1) .speaker__info-border,
 .speaker-list > .speaker:nth-child(6n + 1) .speaker__image-wrap {
-  background: #EE4141; }
+  background: #563cec; }
 
 .speaker-list > .speaker:nth-child(6n + 2) .speaker__info-border,
 .speaker-list > .speaker:nth-child(6n + 2) .speaker__image-wrap {
-  background: #67BBEF; }
+  background: #175e8a; }
 
 .speaker-list > .speaker:nth-child(6n + 3) .speaker__info-border,
 .speaker-list > .speaker:nth-child(6n + 3) .speaker__image-wrap {
